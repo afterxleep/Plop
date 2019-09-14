@@ -1,3 +1,3 @@
 # Plop
 
-Quick and dirty AR Exercise for fun
+Quick and dirty AR Exercise.
